@@ -6,8 +6,6 @@ class Garage
   end
 
   def open
-    # drive_in("Nissan", "GT-R", "2020", "Black")
-    
     puts "Welcome to the garage!"
 
     loop do 
